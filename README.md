@@ -1,4 +1,4 @@
-Fashion is the second most polluting industry, only surpassed by oil. One way it contributes to pollution is in landfills: over 16 tons of textiles ended up in landfills in 2014. I saw firsthand how many low quality items are produced while I was modeling, and couldn't help but become passionate about reducing the negative externalities of the fashion industry.
+Fashion is the second most polluting industry, only surpassed by oil. One way it contributes to pollution is in landfills: over 16 million tons of textiles ended up in landfills in 2014. I saw firsthand how many low quality items are produced while I was modeling, and couldn't help but become passionate about reducing the negative externalities of the fashion industry.
 
 Researching textile waste led me to the zero waste movement, which primarily focuses on reducing household consumption of plastic (an oil product, so part of the top polluting category).
 
