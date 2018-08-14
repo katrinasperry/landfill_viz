@@ -5,7 +5,7 @@ Researching textile waste led me to the zero waste movement, which primarily foc
 This visualization will focus on textile and plastic landfill waste. I hope it motivates people to consume more mindfully.
 
 ## Data
-The dataset contains quantities of different landfill categories starting in 1960 and measured every decade until 2000, then every 5 years until 2010, and every year through 2014. The categories measured are:
+The dataset contains quantities of different landfill categories starting in 1960 and measured every decade until 2000, then every 5 years until 2010, and every year through 2014. The categories measured include textiles and plastics.
 
 ## References
 [Dataset](https://catalog.data.gov/dataset/sustainable-materials-management-smm-materials-and-waste-management-in-the-united-states-key-f)
